@@ -1,0 +1,23 @@
+# Base de datos
+database/database.sqlite
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Configuración local
+.env
+.env.local
+config/local.php
+
+# Logs y temporales
+*.log
+*.tmp
